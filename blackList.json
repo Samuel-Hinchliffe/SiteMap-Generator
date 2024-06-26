@@ -1,0 +1,6 @@
+{
+	"fileExtensions": ["php", "js", "css", "scss", "json", "md", "yml", "yaml", "xml", "txt", "log", "htaccess", "htpasswd", "conf", "htc", "htd", "jpg", "jpeg", "png", "gif", "bmp", "tiff", "webp", "svg"],
+	"fileNames": [],
+	"filePatterns": ["^\\."],
+	"folderPatterns": ["^\\.", "vendor"]
+}
